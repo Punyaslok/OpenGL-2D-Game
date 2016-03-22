@@ -1,5 +1,3 @@
-Graphics Assignment 1
-
 Punyaslok Pattnaik
 201464054
 
